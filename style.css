@@ -23,7 +23,7 @@ nav a:hover {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
-    background-color: #e9a5a5;
+    background-color: #693030;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -40,7 +40,7 @@ nav a:hover {
 
 /* Estilos para el pie de página */
 footer {
-    background-color: #9bc2b5;
+    background-color: #4d8a75;
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 10px 0;
